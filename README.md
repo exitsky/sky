@@ -9,7 +9,7 @@ Hello!
 
 ## 20180521-02
 * class
-* function
+* list
 
 ## Welcome to GitHub Pages
 
